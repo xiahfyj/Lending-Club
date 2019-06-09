@@ -168,5 +168,6 @@ print(paste("test-error=", err))
 
 ##The test error was 0.0087.The dataset itself is very imbalanced,
 ##and I think that is why we are getting such a perfect error rate. If I were to have more time to work on a better 
-##computer, we might get a different anwser. For the purpose of this project, I will just stop here.
+##computer, we might get a different anwser(For instance, SMOTE resampling method will help with imbalanced data). 
+##For the purpose of this project, I will just stop here.
 
